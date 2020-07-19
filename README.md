@@ -1,14 +1,14 @@
-JETPACK JOYRIDE GAME
-=========================
+# JETPACK JOYRIDE GAME
 
-Created by : Akshay Kharbanda &copy;
------------------------------
-
-To run the game : 
-
-## To Compile : 
-      $ cd output 
-      $ make all
-## To Execute : 
-      $ ./jetpack_joyride
-
+## Usage
+To Compile, type the following commands in the terminal:
+```bash
+cd output 
+```
+```bash
+make all
+```
+To execute, type the following commands in the terminal:
+```bash
+./jetpack_joyride
+```
